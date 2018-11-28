@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "5121677"
+    build_id: "5152775"
     target: "kernel_debug_hang"
     source_file: "Image.gz-dtb.marlin"
   }
   dest_file: "debug/Image.gz-dtb.marlin_debug_hang"
-  version: "Linux version 3.18.122-ga5f5e92 (android-build@abfarm685) (gcc version 4.9.x 20150123 (prerelease) (GCC) ) #1 SMP PREEMPT Fri Nov 9 16:20:50 UTC 2018"
+  version: "Linux version 3.18.122-g8525f84c7d42 (android-build@wphm9.hot.corp.google.com) (gcc version 4.9.x 20150123 (prerelease) (GCC) ) #1 SMP PREEMPT Wed Nov 28 21:01:01 UTC 2018"
   version_group: "kernel"
   git_project: "device/google/marlin-kernel"
 }
