@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "5248750"
+    build_id: "5354703"
     target: "kernel"
     source_file: "Image.lz4-dtb"
   }
   dest_file: "Image.lz4-dtb"
-  version: "Linux version 3.18.131-g528ac59 (android-build@abfarm339) (gcc version 4.9.x 20150123 (prerelease) (GCC) ) #1 SMP PREEMPT Tue Jan 22 02:13:07 UTC 2019"
+  version: "Linux version 3.18.131-g021e5400cb88 (android-build@wphp1.hot.corp.google.com) (gcc version 4.9.x 20150123 (prerelease) (GCC) ) #1 SMP PREEMPT Wed Mar 6 03:19:07 UTC 2019"
   version_group: "kernel"
   git_project: "device/google/marlin-kernel"
 }
