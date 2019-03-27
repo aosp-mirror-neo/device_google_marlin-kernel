@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "5387736"
+    build_id: "5409746"
     target: "kernel_debug_hang"
     source_file: "Image.gz-dtb.sailfish"
   }
   dest_file: "debug/Image.gz-dtb.sailfish_debug_hang"
-  version: "Linux version 3.18.136-ga0df7f379200 (android-build@wprb11.hot.corp.google.com) (gcc version 4.9.x 20150123 (prerelease) (GCC) ) #1 SMP PREEMPT Tue Mar 19 18:08:44 UTC 2019"
+  version: "Linux version 3.18.136-g5bd00c26a99b (android-build@wprh8.hot.corp.google.com) (gcc version 4.9.x 20150123 (prerelease) (GCC) ) #1 SMP PREEMPT Wed Mar 27 01:48:26 UTC 2019"
   version_group: "kernel"
   git_project: "device/google/marlin-kernel"
 }
