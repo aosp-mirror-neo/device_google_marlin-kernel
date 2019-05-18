@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "5556356"
+    build_id: "5563298"
     target: "kernel_debug_memory"
     source_file: "Image.gz-dtb.sailfish"
   }
   dest_file: "debug/Image.gz-dtb.sailfish_debug_memory"
-  version: "Linux version 3.18.137-gd74b074a4c76 (android-build@wphs10.hot.corp.google.com) (gcc version 4.9.x 20150123 (prerelease) (GCC) ) #1 SMP PREEMPT Sat May 11 00:13:16 UTC 2019"
+  version: "Linux version 3.18.137-g43fc53d223fd (android-build@abfarm365) (gcc version 4.9.x 20150123 (prerelease) (GCC) ) #1 SMP PREEMPT Tue May 14 02:45:03 UTC 2019"
   version_group: "kernel"
   git_project: "device/google/marlin-kernel"
 }
