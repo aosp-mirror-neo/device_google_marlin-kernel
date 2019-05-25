@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "5563298"
+    build_id: "5587595"
     target: "kernel_debug_locking"
     source_file: "Image.gz-dtb.marlin"
   }
   dest_file: "debug/Image.gz-dtb.marlin_debug_locking"
-  version: "Linux version 3.18.137-g43fc53d223fd (android-build@abfarm365) (gcc version 4.9.x 20150123 (prerelease) (GCC) ) #1 SMP PREEMPT Tue May 14 02:45:03 UTC 2019"
+  version: "Linux version 3.18.137-gf3e6e9a54583 (android-build@wprm6.hot.corp.google.com) (gcc version 4.9.x 20150123 (prerelease) (GCC) ) #1 SMP PREEMPT Tue May 21 04:12:56 UTC 2019"
   version_group: "kernel"
   git_project: "device/google/marlin-kernel"
 }
